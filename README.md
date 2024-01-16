@@ -33,3 +33,7 @@
 La documentación sobre el testeo de la api corriendo se realizó usando Postman. 
 
 A continuación se adjunta un link de descarga del archivo donde se encuentran las pruebas realizadas, para su descarga e importación en Postman.
+
+## Swagger
+
+[https://api-academicadmin-railwaydeploy-production.up.railway.app/swagger-ui/index.html](https://api-academicadmin-railwaydeploy-production.up.railway.app/swagger-ui/index.html)
